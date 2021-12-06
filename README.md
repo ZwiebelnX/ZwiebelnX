@@ -7,6 +7,8 @@
 
 ### My Tech Stack
 
+---
+
 <table>
   <tr>
     <td>
@@ -16,10 +18,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZwiebelnX)](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
-  </table>
+</table>
 <div style="
     display: flex;
 ">
+</div>
   
 
 <!--
