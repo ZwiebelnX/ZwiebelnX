@@ -5,8 +5,6 @@
 >
 > Everything happens for the best.
 
-### My Tech Stack
-
 ---
 <table>
   <tr>
