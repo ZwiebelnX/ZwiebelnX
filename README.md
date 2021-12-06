@@ -8,20 +8,22 @@
 ### My Tech Stack
 
 ---
-
 <table>
   <tr>
     <td>
-[![ZwiebelnX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZwiebelnX&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-    <td>
+      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZwiebelnX)](https://github.com/anuraghazra/github-readme-stats)
     </td>
+    <td>
+  
+[![Gaarahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZwiebelnX&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
   </tr>
-</table>
+  </table>
 <div style="
     display: flex;
 ">
+  
 </div>
   
 
